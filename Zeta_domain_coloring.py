@@ -117,6 +117,7 @@ def f(z):
 # p1.show()
 print(count(0))
 
+# Konrad Knopp Reihenidentität
 
 def zeta(s, t=5):
     # if s == 1:
